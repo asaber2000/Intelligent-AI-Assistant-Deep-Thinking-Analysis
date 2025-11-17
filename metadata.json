@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Thinking Mode",
+  "description": "An application that leverages Gemini's 'thinking mode' to provide deep, well-reasoned answers to complex queries. Toggle 'Thinking Mode' to use the gemini-2.5-pro model with an enhanced thinking budget for more comprehensive responses.",
+  "requestFramePermissions": []
+}
